@@ -15,7 +15,6 @@ The news article dataset can be downloaded from this Google drive link : [LeMond
 	The decomposition provided seems to be consistent with empirical observations, making it an interesting tool for decision makers seeking early nowcasting of economic indicators. 
 	Though I have focused on the application of DABSA to macroeconomics, the DABSA method is not domain-specific. It can be used whenever a sequential decomposition of a sentiment series is needed.
 
-Submitted to the [18th International Conference on Principles of Knowledge Representation and Reasoning](https://kr2021.kbsg.rwth-aachen.de/).
 
 ## 1 [Sup] Simulations.ipynb: script for the Monte Carlo simulation
 ## 2 [Sup] LDA Aspect finding.ipynb: script for aspect identification
